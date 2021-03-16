@@ -1,0 +1,33 @@
+@import 'header.css';
+@import 'footer.css';
+@import 'login.css';
+@import 'admin.css';
+
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
+
+.content-container {
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 60px;    /* Footer height */
+}
+
+.home-title-content {
+    padding-bottom: 100px;
+}
+
+.post {
+    padding-bottom: 10px;
+}
+
+.post-title {
+    font-size: 1.5rem;
+}
+
+.post-content {
+
+}
